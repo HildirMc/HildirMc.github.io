@@ -13,8 +13,16 @@ enableEmoji = true
 
 [params.footer]
 copyright = "© Hildir - 2026"
+version = true
+
+[params.social]
+github = "HildirMc/HildirMc.github.io"
 
 [params.docs]
 themeColor = "emerald"
 darkMode = true
 logoLinkURL = "https://hildir.fr"
+sidebarIcons = true
+titleIcon = true
+repoURL = "https://github.com/HildirMc/HildirMc.github.io"
+lastMod = true
