@@ -1,0 +1,20 @@
+baseURL = 'https://wiki.hilldir.fr/'
+locale = 'fr-fr'
+title = 'Hildir | Wiki'
+enableEmoji = true
+
+[module]
+    [[module.imports]]
+        path = "github.com/colinwilson/lotusdocs"
+        disable = false
+    [[module.imports]]
+        path = "github.com/gohugoio/hugo-mod-bootstrap-scss/v5"
+        disable = false
+
+[params.footer]
+copyright = "© Hildir - 2026"
+
+[params.docs]
+themeColor = "emerald"
+darkMode = true
+logoLinkURL = "https://hildir.fr"

@@ -1,0 +1,44 @@
+# Hero
+hero:
+  enable: true
+  weight: 10
+  template: hero
+
+  backgroundImage:
+    path: "images/templates/hero"
+    filename:
+      desktop: "gradient-desktop.webp"
+      mobile: "gradient-mobile.webp"
+
+  badge:
+    text: v1.0.0
+    color: primary # primary, secondary, success, danger, warning, info, light, dark
+    pill: false # boolean
+    soft: true # boolean
+
+  title: "Bienvenue sur le Wiki Hildir"
+  subtitle: Tu trouveras ici tout ce dont tu as besoin pour **t'amuser sans encombre** sur notre serveur !
+
+  image:
+    path: "images" # path to image under configured assets directory. default 'images'
+    filename: "icon-128x.png" # filename of your hero image (including file extension)
+    alt: "Icone" # Optional but recommended
+    boxShadow: false # default 'false' (excludes .svg images)
+    rounded: false # round the image corners? default 'false' (excludes .svg images)
+
+  ctaButton:
+    icon: rocket_launch
+    btnText: "Accéder au Wiki"
+    url: "/docs/"
+  cta2Button:
+    icon: globe
+    btnText: "Retourner sur le site"
+    url: "https://hildir.fr"
+
+  info: " "
+
+featureGrid:
+  enable: false
+
+imageCompare:
+  enable: false

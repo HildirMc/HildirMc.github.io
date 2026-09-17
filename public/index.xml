@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Hildir | Wiki</title>
+		<link>http://localhost:1313/</link>
+		<description>Recent content on Hildir | Wiki</description>
+		<generator>Hugo</generator>
+		<language>fr-fr</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 17 Sep 2026 14:30:29 +0200</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Règlement</title>
+				<link>http://localhost:1313/docs/reglement/</link>
+				<pubDate>Thu, 17 Sep 2026 14:30:29 +0200</pubDate>
+				<guid>http://localhost:1313/docs/reglement/</guid>
+				<description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;votre-compte&#34;&gt;Votre Compte &lt;a href=&#34;#votre-compte&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;Tous les comptes que vous utilisez doivent vous appartenir, et vous êtes responsables de tout ce qui se passe avec.&lt;/li&gt;&#xA;&lt;li&gt;Les doubles comptes sont interdits.&lt;/li&gt;&#xA;&lt;li&gt;Les pseudos et les skins, ou tout autre élément visuel vous appartenant ne doivent comporter aucun caractère pronographique, sexiste, raciste, homophobe, xénophobe ou faire référence à des propos insultants, discriminatoires ou politiques.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;le-chat&#34;&gt;Le Chat &lt;a href=&#34;#le-chat&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Le chat comme les salons Discord doivent rester des lieux grand public et chaleureux. Merci d&amp;rsquo;écrire le plus lisiblement possible et de soigner l&amp;rsquo;orthographe.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
