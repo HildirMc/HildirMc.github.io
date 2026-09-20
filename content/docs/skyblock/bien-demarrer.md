@@ -11,7 +11,7 @@ tags = ["General", "Skyblock"]
 +++
 ---
 
-![base-island.jpg](/images/base-island.jpg)
+{{< image-center src="/images/skyblock/base-island.jpg" alt="L'île de base" >}}
 
 À ton arrivée, tu commences sur une petite île avec un arbre, un coffre contenant quelques items et presque rien d'autre.
 Pour le reste, c'est à toi de le fabriquer.
@@ -38,6 +38,8 @@ Tu ne peux avoir qu'une seule île, donc choisis bien ce que tu souhaites faire.
 Une fois que tu as ton île, tu peux accéder à des challenges qui te guideront dans tes débuts. Pour cella, tape `/ile challenges`.
 En accomplissant ces challenges, tu gagneras des récompenses qui te seront très utile pour la suite de ton aventure.
 
+{{< image-center src="/images/skyblock/challenges.jpg" alt="Les Challenges" >}}
+
 Penses également à vendre tout ce dont tu n'as pas besoin avec la commande `/sellgui`. Les Skatts que tu gagneras te permettrons d'améliorer ton île avec `/ile upgrades` mais aussi d'accéder aux mines du serveur avec `/mines`.
 
 ### Ton générateur de cobblestone
@@ -53,6 +55,8 @@ La première mine est une zone paisible avec le PvP désactivé. Tu y trouveras 
 
 La deuxième et la troisième mine autorisent le PvP par défaut, soit très prudent en t'y rendant. Si tu ne souhaites pas participer à des combats, ouvre ton profil avec `/profil` et désactive ton mode PvP.
 Ces deux mines te permettent d'accéder à des minerais plus rares que la première mine, mais leur coût d'accès est égallement plus élevé. Alors pour que cette opération soit rentable, penses à bien te préparer avant d'y aller.
+
+{{< image-center src="/images/skyblock/mines.jpg" alt="Les Mines" >}}
 
 ## Les commandes à retenir
 
