@@ -18,9 +18,9 @@ Pour le reste, c'est à toi de le fabriquer.
 
 ## Les choses à savoir avant de démarrer
 
-- Tu choisis si tu active le PvP ou non. Avec la commande `/profil` tu peux choisir d'activer ou désactiver ton mode PvP. C'est utile si tu souhaites jouer sans risques ou si tu préfères le challenge.
-- Si tu actives le mode PvP, quitter un combat pour éviter de mourir te coutera tout ton inventaire. Alors ne l'active pas à la légère.
-- Tu es responsable de la configuration des protections de ton île. Avec la commande `/ilemenu` tu as la possibilité de configurer certaines protections de ton île. Si ta configuration n'est pas adaptée à tes envies et besoins, tu ne pourras réclamer aucun dédommagement à quiconque. Prend bien le temps de configurer tes paramètres, c'est important pour la suite de ton aventure !
+{{< alert icon="" context="warning" text="Tu choisis si tu actives le PvP ou non. Avec la commande `/profil` tu peux choisir d'activer ou désactiver ton mode PvP. C'est utile si tu souhaites jouer sans risques ou si tu préfères le challenge." />}}
+{{< alert icon="" context="warning" text="Si tu actives le mode PvP, quitter un combat pour éviter de mourir te coutera tout ton inventaire. Alors ne l'active pas à la légère." />}}
+{{< alert icon="" context="warning" text="Tu es responsable de la configuration des protections de ton île. Avec la commande `/ilemenu` tu as la possibilité de configurer certaines protections de ton île. Si ta configuration n'est pas adaptée à tes envies et besoins, tu ne pourras réclamer aucun dédommagement à quiconque. Prend bien le temps de configurer tes paramètres, c'est important pour la suite de ton aventure !" />}}
 
 ## Nouveau joueur
 
