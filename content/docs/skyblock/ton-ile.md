@@ -42,4 +42,4 @@ Voici les rangs disponibles :
 
 ## La banque d'île
 
-C'est une caisse commune, séparée de tes Skatts personels. Elle sert à acheter des nouveaux générateurs. On y dépose avec /banque.
+C'est une caisse commune, séparée de tes Skatts personels. Elle sert à acheter des nouveaux générateurs. On y dépose avec /ile banque.
