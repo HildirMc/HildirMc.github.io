@@ -11,6 +11,8 @@ tags = ["General", "Skyblock"]
 +++
 ---
 
+![base-island.jpg](/images/base-island.jpg)
+
 À ton arrivée, tu commences sur une petite île avec un arbre, un coffre contenant quelques items et presque rien d'autre.
 Pour le reste, c'est à toi de le fabriquer.
 
