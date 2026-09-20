@@ -5,6 +5,15 @@
     <loc>http://localhost:1313/docs/reglement/</loc>
     <lastmod>2026-09-17T14:30:29+02:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/docs/skyblock/</loc>
+    <lastmod>2026-09-17T14:30:29+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/skyblock/bien-demarrer/</loc>
+    <lastmod>2026-09-17T14:30:29+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/skyblock/ton-ile/</loc>
+    <lastmod>2026-09-17T14:30:29+02:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/docs/</loc>
     <lastmod>2026-09-17T14:30:29+02:00</lastmod>
   </url><url>
@@ -12,6 +21,9 @@
     <lastmod>2026-09-17T14:30:29+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2026-09-17T14:30:29+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/skyblock/</loc>
     <lastmod>2026-09-17T14:30:29+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
