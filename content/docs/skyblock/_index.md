@@ -1,5 +1,5 @@
 +++
-weight = 2
+weight = 100
 title = "Hildir Skyblock"
 description = "Tout ce qu'il faut savoir sur le Skyblock Hildir !"
 icon = "book"
