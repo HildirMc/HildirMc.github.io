@@ -1,5 +1,5 @@
 +++
-weight = 3
+weight = 1100
 title = "Bien démarrer"
 description = "Tout ce qu'il faut savoir pour bien démarrer sur le Skyblock Hildir !"
 icon = "book"
