@@ -1,5 +1,5 @@
 +++
-weight = 50
+weight = 2
 title = "Les Monnaies"
 description = "Sur Hildir, tu retrouveras deux monnaies, les Skatts et les Denos."
 icon = "book"
@@ -35,6 +35,8 @@ Tu découvriras d'autres moyens de gagner des Skatts directement en jeu !
 ## Les Denos
 
 Les Denos sont la monnaie premium sur Hildir. Mais pas de panique, tu n'es pas obligé de sortir la carte bancaire pour en obtenir !
+
+Les Denos te serviront à acheter des grades, ainsi qu'à financer l'accès à de nombreux éléments uniques à Hildir !
 
 {{< alert icon="" context="success" text="Contrairement aux Skatts, ton solde de Denos est le même sur tous les modes de jeux présents sur Hildir !" />}}
 

@@ -1,5 +1,5 @@
 +++
-weight = 100
+weight = 3
 title = "Les Parrainages"
 description = "Sur Hildir, tu peux parrainer et être parrainé pour gagner des récompenses !"
 icon = "book"
