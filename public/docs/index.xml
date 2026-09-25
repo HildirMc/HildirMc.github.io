@@ -25,7 +25,7 @@
 				<link>http://localhost:1313/docs/parrainage/</link>
 				<pubDate>Thu, 17 Sep 2026 14:30:29 +0200</pubDate>
 				<guid>http://localhost:1313/docs/parrainage/</guid>
-				<description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;comment-ça-fonctionne-&#34;&gt;Comment ça fonctionne ? &lt;a href=&#34;#comment-%c3%a7a-fonctionne-&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;</description>
+				<description>&lt;hr&gt;&#xA;&lt;p&gt;Le système de parrainage te permet d&amp;rsquo;inviter un ami sur Hildir. L&amp;rsquo;orsqu&amp;rsquo;il utilise ton code, vous recevez tous les deux 50 Denos.&#xA;Si ton ami lie son compte Minecraft au Discord d&amp;rsquo;Hildir, vous gagnezz à nouveau 50 Denos chacun.&lt;/p&gt;&#xA;&#xD;&#xA;&lt;div class=&#34;alert alert-success d-flex&#34; role=&#34;alert&#34;&gt;&#xD;&#xA;&lt;div class=&#34;flex-shrink-1 alert-icon&#34;&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span class=&#34;material-icons size-20 me-2&#34;&gt;&#xD;&#xA;      check_circle&#xD;&#xA;    &lt;/span&gt;&lt;/div&gt;&#xD;&#xA;&#xD;&#xA;&lt;div class=&#34;w-100&#34;&gt;Si tu n&amp;rsquo;as pas été parrainé, tu peux aussi gagner 50 Denos en liant tes deux comptes. c&amp;rsquo;est l&amp;rsquo;occasion d&amp;rsquo;en profiter !&lt;/div&gt;&#xD;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;Tape &lt;code&gt;/parrainage&lt;/code&gt; pour ouvrir le menu de parrainage directement sur le serveur. Tu y retrouveras ton code, ton suivi et la liste de tes filleuls.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>

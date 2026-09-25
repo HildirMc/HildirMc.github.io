@@ -1,7 +1,7 @@
 +++
-weight = 2
+weight = 100
 title = "Les Parrainages"
-description = "Sur Hildir, tu peux parrainer et être parrain er pour gagner des récompenses !"
+description = "Sur Hildir, tu peux parrainer et être parrainé pour gagner des récompenses !"
 icon = "book"
 date = "2026-09-17T14:30:29+02:00"
 lastmod = "2026-09-17T14:30:29+02:00"
@@ -29,7 +29,7 @@ Tu ne choisis pas ton code, et tu ne peux pas le modifierr. Il est conservé dé
 
 Si tu es un nouveau joueur, avec le code d'un ami, tape `/parrainage` pour ouvrir le menu. Cliques ensuite sur `Utiliser un code` pour le renseigner.
 
-{{< alert icon="" context="danger" text="ATTENTION : tu ne disposes que d'une heure après ta première connexion pour rentrer un code. Cette s'écoule même si tu te déconnectes. Tu ne peux utiliser qu'un seul code, et tu ne peux pas utiliser ton propre code." />}}
+{{< alert icon="" context="danger" text="ATTENTION : tu ne disposes que d'une heure après ta première connexion pour rentrer un code. Cette heure s'écoule même si tu te déconnectes. Tu ne peux utiliser qu'un seul code, et tu ne peux pas utiliser ton propre code." />}}
 
 Si le code que tu as rentré est validé par le système, toi et ton parrain recevrez alors 50 Denos.
 
